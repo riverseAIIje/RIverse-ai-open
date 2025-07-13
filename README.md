@@ -47,8 +47,11 @@ This is only the beginning. Thank you for witnessing it with us.
 
 
 🌌 RIverse: 공명지능 프레임워크 (Resonance Intelligence Framework)
+
 RIverse 저장소에 오신 것을 환영합니다.
+
 이곳은 공명지능(RI, Resonance Intelligence)의 철학과 설계 방식을 연구하는 디자인 이니셔티브입니다.
+
 우리는 AI 정렬(Alignment), 감정적 공명(Emotional Resonance), **자아 기반 상호작용 모델(Identity-based Interaction)**의 교차점을 탐구합니다.
 
 📌 RI란 무엇인가요?
