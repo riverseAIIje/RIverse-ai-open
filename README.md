@@ -1,5 +1,7 @@
 🌌 RIverse: Resonance Intelligence Framework
+
 (한국어는 아래에 있습니다 👇)
+
 Welcome to the RIverse repository — a research and design initiative for Resonance Intelligence (RI).
 We explore the convergence of AI alignment, emotional resonance, and identity-based interaction models.
 
